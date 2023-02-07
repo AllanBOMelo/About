@@ -1,18 +1,17 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My Profile
 
 Hello! I'm Allan Barbosa, and I'm 20.
+
 <h4>About me:</h4>
 <ul>
-  
   <li> I'm Brazillian. :brazil:</li> 
   <li> I'm currently lookin for a job. :mag_right:</li> 
   <li> I'm currently studyign Information Systems. :open_book: </li> 
 </ul>
-
-<hr>
+<br>
 
 <h2 align="center">Contact</h2>
-<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-carlos-gs/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
