@@ -23,7 +23,8 @@ Hello! I'm Allan Barbosa, and I'm 20.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-### GitHub Status
+<!-- GitHub section -->
+<h3> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> GitHub Status </h3> 
 
 | ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luancgs&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5) | ![Luan's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luancgs&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5) |
 | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
