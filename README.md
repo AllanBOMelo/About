@@ -13,10 +13,10 @@ Hello! I'm Allan Barbosa, and I'm 20.
 <h1>:iphone: Contact</h1>
 
 
-  <a href="https://www.linkedin.com/in/luan-carlos-gs/">
+<a href="https://www.linkedin.com/in/allan-barbosa-65110219a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
- </a>
-<a href="mailto:luan.carlos.3174@gmail.com">
+</a>
+<a href="mailto:allanbarbosaom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
