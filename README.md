@@ -2,6 +2,7 @@
 
 Hello! I'm Allan Barbosa, and I'm 20.
 
+<!-- About section -->
 <h3>📝 About me:</h3>
 
 <ul>
@@ -9,10 +10,11 @@ Hello! I'm Allan Barbosa, and I'm 20.
   <li> I'm currently lookin for a job. :mag_right:</li> 
   <li> I'm currently studyign Information Systems. :open_book: </li> 
 </ul>
+
 <br>
 
+<!-- Contact section -->
 <h1>:iphone: Contact</h1>
-
 
 <a href="https://www.linkedin.com/in/allan-barbosa-65110219a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
