@@ -7,7 +7,7 @@ Hello! I'm Allan Barbosa, and I'm 20.
 About section 
 
 -->
-<h3>📝 About me:</h3>
+<h2>📝 About me:</h2>
 
 <ul>
   <li> I'm Brazillian. :brazil:</li> 
@@ -22,8 +22,6 @@ Contact section
 -->
   
 <h2>:iphone: Contact</h2>
-
-<br>
   
 <a href="https://www.linkedin.com/in/allan-barbosa-65110219a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
