@@ -59,6 +59,7 @@ GitHub section
 <h1 align="center">:blue_book: Learning</h1>
 
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=for-the-badge&logo=javascript&logoColor=white)
+[![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=for-the-badge&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
   
 </div>
 <!--
