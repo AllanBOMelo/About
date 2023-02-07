@@ -55,7 +55,7 @@ GitHub section
 [![Java badge](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white&link=https://www.java.com)](https://www.java.com)
 
 <h1 align="center">:blue_book: Learning</h1>
-![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
+[![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
   
 </div>
 <!--
