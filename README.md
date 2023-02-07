@@ -15,8 +15,6 @@ About section
   <li> I'm currently studyign Information Systems. :open_book: </li> 
 </ul>
 
-
-<br><br><br><br>
 <!-- 
 
 Contact section 
@@ -37,6 +35,7 @@ Contact section
   
 </div>
 
+<br><br><br><br>
 
 <!-- 
 
