@@ -2,7 +2,11 @@
 
 Hello! I'm Allan Barbosa, and I'm 20.
 
-<!-- About section -->
+<!-- 
+
+About section 
+
+-->
 <h3>📝 About me:</h3>
 
 <ul>
@@ -13,7 +17,11 @@ Hello! I'm Allan Barbosa, and I'm 20.
 
 <br>
 
-<!-- Contact section -->
+<!-- 
+
+Contact section 
+
+-->
 <h1>:iphone: Contact</h1>
 
 <a href="https://www.linkedin.com/in/allan-barbosa-65110219a/">
@@ -23,8 +31,12 @@ Hello! I'm Allan Barbosa, and I'm 20.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<!-- GitHub section -->
-<h3>:bar_chart: GitHub Status </h3> 
+<!-- 
+
+GitHub section 
+
+-->
+<h3>GitHub Status </h3> 
 
 | ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luancgs&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5) | ![Luan's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luancgs&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5) |
 | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
