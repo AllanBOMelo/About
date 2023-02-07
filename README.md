@@ -15,7 +15,11 @@ About section
   <li> I'm currently studyign Information Systems. :open_book: </li> 
 </ul>
 
-<br>
+
+
+
+
+
 
 <!-- 
 
