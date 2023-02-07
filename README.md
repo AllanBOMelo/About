@@ -56,6 +56,7 @@ GitHub section
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
   
+<br>  
 <h1 align="center">:blue_book: Learning</h1>
 
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=for-the-badge&logo=javascript&logoColor=white)
