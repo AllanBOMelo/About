@@ -9,6 +9,9 @@ Hello! I'm Allan Barbosa, and I'm 20.
   <li> I'm currently studyign Information Systems. :open_book: </li> 
 </ul>
 
+<hr>
+
+<h3 aling="center">Contact</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-carlos-gs/">
