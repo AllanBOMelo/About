@@ -16,11 +16,7 @@ About section
 </ul>
 
 
-
-
-
-
-
+<br><br><br><br>
 <!-- 
 
 Contact section 
