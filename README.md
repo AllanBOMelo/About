@@ -20,22 +20,18 @@ About section
 Contact section 
 
 -->
-
-<div align="center">
   
-  <h1>:iphone: Contact</h1>
+<h3>:iphone: Contact</h3>
 
-  <br><br>
+<br><br>
   
-  <a style="margin-left:5px;" href="https://www.linkedin.com/in/allan-barbosa-65110219a/">
+<a href="https://www.linkedin.com/in/allan-barbosa-65110219a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+</a>
   
-  <a href="mailto:allanbarbosaom@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-</div>
+<a href="mailto:allanbarbosaom@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 <br><br>
 
