@@ -3,6 +3,7 @@
 Hello! I'm Allan Barbosa, and I'm 20.
 
 ###📝 About me:
+
 <ul>
   <li> I'm Brazillian. :brazil:</li> 
   <li> I'm currently lookin for a job. :mag_right:</li> 
