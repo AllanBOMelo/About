@@ -10,7 +10,7 @@ Hello! I'm Allan Barbosa, and I'm 20.
 </ul>
 <br>
 
-<h2 align="center">Contact</h2>
+<h1>:iphone: Contact</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-carlos-gs/">
