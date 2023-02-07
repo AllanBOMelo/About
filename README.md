@@ -21,9 +21,9 @@ Contact section
 
 -->
   
-<h3>:iphone: Contact</h3>
+<h2>:iphone: Contact</h2>
 
-<br><br>
+<br>
   
 <a href="https://www.linkedin.com/in/allan-barbosa-65110219a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
