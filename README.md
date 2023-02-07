@@ -11,7 +11,7 @@ Hello! I'm Allan Barbosa, and I'm 20.
 
 <hr>
 
-<h3>Contact</h3>
+<h3 align="center">Contact</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-carlos-gs/">
