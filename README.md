@@ -1,3 +1,17 @@
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome
+
+Hello! I'm Allan Barbosa, and I'm 20.
+<h1>About me:</h1>
+<ul>
+  
+  <li> I'm Brazillian.</li> :brazil:
+  <li> I'm currently lookin for a job.</li> :mag_right:
+  <li> I'm currently studyign Information Systems </li> :open_book:
+</ul>
+
+# I'm Brazillian
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-carlos-gs/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -9,7 +23,7 @@
 
 ### 📝 About Me:
 
-Hello, my name is Luan Carlos, I'm 23 years old.
+I'm Allan Barbosa.
 
 - 😄 Pronouns: He/Him
 - 🇧🇷 I am brazilian and currently studying to be an Automation Engineer.
@@ -25,22 +39,8 @@ Hello, my name is Luan Carlos, I'm 23 years old.
 
 ### Languages and Frameworks
 
-![Bash](https://img.shields.io/badge/-HTML-orange)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5]([https://img.shields.io/badge/-HTML-orange](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
+
 
 </div>
 <!--
