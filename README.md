@@ -36,7 +36,7 @@ Contact section
 GitHub section 
 
 -->
-<h3 align="center"> GitHub Status </h3> 
+<h1> GitHub Status </h1> 
 
 
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanBOMelo&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
