@@ -1,5 +1,3 @@
-![Luan's GitHub Banner](./images/GithubBanner.png)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-carlos-gs/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,7 +25,7 @@ Hello, my name is Luan Carlos, I'm 23 years old.
 
 ### Languages and Frameworks
 
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/-HTML-orange)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
