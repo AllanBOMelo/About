@@ -1,15 +1,13 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome</h2>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My Profile
 
 Hello! I'm Allan Barbosa, and I'm 20.
-<h1>About me:</h1>
+<h4>About me:</h4>
 <ul>
   
   <li> I'm Brazillian. :brazil:</li> 
   <li> I'm currently lookin for a job. :mag_right:</li> 
   <li> I'm currently studyign Information Systems. :open_book: </li> 
 </ul>
-
-# I'm Brazillian
 
 
 <p align="center">
