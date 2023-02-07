@@ -40,7 +40,7 @@ GitHub section
 -->
 <h1 align="center"> GitHub Status </h1> 
 
-| ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanBOMelo&show_icons=true&count_private=true&bg_color=0f272b&text_color=FEFEFE&icon_color=D6FFA5&title_color=80AA4E) | ![Allan's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanBOMelo&bg_color=0f272b&text_color=FEFEFE&icon_color=D6FFA5&title_color=80AA4E) |
+| ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanBOMelo&show_icons=true&count_private=true&bg_color=1A3D62text_color=FEFEFE&icon_color=D6FFA5&title_color=6086AD) | ![Allan's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanBOMelo&bg_color=1A3D62&text_color=FEFEFE&icon_color=D6FFA5&title_color=6086AD) |
 | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 
 
