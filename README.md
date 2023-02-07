@@ -2,7 +2,7 @@
 
 Hello! I'm Allan Barbosa, and I'm 20.
 
-<h3>📝 About me:</h3>
+###📝 About me:
 <ul>
   <li> I'm Brazillian. :brazil:</li> 
   <li> I'm currently lookin for a job. :mag_right:</li> 
@@ -19,16 +19,6 @@ Hello! I'm Allan Barbosa, and I'm 20.
 <a href="mailto:allanbarbosaom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-
-### 📝 About Me:
-
-I'm Allan Barbosa.
-
-- 😄 Pronouns: He/Him
-- 🇧🇷 I am brazilian and currently studying to be an Automation Engineer.
-- 🔭 I’m currently looking for a job.
-- 🌱 Learning to automate tasks usings scripts in Bash, Lua and JS.
 
 ### GitHub Status
 
