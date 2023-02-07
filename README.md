@@ -10,9 +10,9 @@ About section
 <h2>📝 About me:</h2>
 
 <ul>
-  <li> I'm Brazillian. :brazil:</li> 
-  <li> I'm currently lookin for a job. :mag_right:</li> 
-  <li> I'm currently studyign Information Systems. :open_book: </li> 
+  <li type="square"> I'm Brazillian. :brazil:</li> 
+  <li type="square"> I'm currently lookin for a job. :mag_right:</li> 
+  <li type="square"> I'm currently studyign Information Systems. :open_book: </li> 
 </ul>
 
 <!-- 
