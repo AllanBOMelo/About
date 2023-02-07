@@ -48,10 +48,12 @@ GitHub section
 
 <div align="center">
 
-### Languages and Frameworks
+<h1 align="center">📌 Skills</h1>
 
 ![HTML5]([https://img.shields.io/badge/-HTML-orange](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
 
+  
+<h1 align="center">:blue_book: Learning</h1>
 
 </div>
 <!--
