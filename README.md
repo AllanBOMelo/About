@@ -53,8 +53,8 @@ GitHub section
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 [![Java badge](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white&link=https://www.java.com)](https://www.java.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  
 <h1 align="center">:blue_book: Learning</h1>
 
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
