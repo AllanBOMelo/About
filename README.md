@@ -62,6 +62,7 @@ GitHub section
 <h1 align="center">:blue_book: Learning</h1>
 
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
   
 </div>
