@@ -59,8 +59,8 @@ GitHub section
 [![React badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=for-the-badge&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
   
 <br>  
-<h1 align="center">:blue_book: Learning</h1> 	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-![TypeScript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<h1 align="center">:blue_book: Learning</h1>
+![TypeScript badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
   
 </div>
