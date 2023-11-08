@@ -63,6 +63,7 @@ GitHub section
 
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
   
 </div>
