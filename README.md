@@ -60,7 +60,7 @@ GitHub section
   
 <br>  
 <h1 align="center">:blue_book: Learning</h1>
-[![TypeScript badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)]
+![Typescript](https://camo.githubusercontent.com/2739bd6e1b2c420b8956e83e9f5729c3abb2381a8f4fc907a526039eb7f640ae/68747470733a2f2f62616467656e2e6e65742f62616467652f2d2f547970655363726970742f626c75653f69636f6e3d74797065736372697074266c6162656c)
 
   
 </div>
