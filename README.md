@@ -48,7 +48,7 @@ GitHub section
 
 <div align="center">
 
-<h1 align="center">📌 Skills</h1>
+<h1 align="center">📌 Skills</h1> 
 
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -60,6 +60,7 @@ GitHub section
   
 <br>  
 <h1 align="center">:blue_book: Learning</h1>
+
 ![Typescript](https://camo.githubusercontent.com/2739bd6e1b2c420b8956e83e9f5729c3abb2381a8f4fc907a526039eb7f640ae/68747470733a2f2f62616467656e2e6e65742f62616467652f2d2f547970655363726970742f626c75653f69636f6e3d74797065736372697074266c6162656c)
 
   
