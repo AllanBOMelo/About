@@ -52,7 +52,7 @@ GitHub section
 
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-[![Java badge](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=white&link=https://www.java.com)](https://www.java.com)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)(https://www.java.com)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=for-the-badge&logo=javascript&logoColor=white)
@@ -61,9 +61,9 @@ GitHub section
 <br>  
 <h1 align="center">:blue_book: Learning</h1>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   
 </div>
